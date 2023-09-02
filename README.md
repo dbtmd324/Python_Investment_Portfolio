@@ -63,4 +63,5 @@
 3. SQL 복습
 4. 크롤링
 5. DB구성
-6. KIS Developers 연결
+6. 백테스트
+7. KIS Developers 연결
